@@ -1,1 +1,1 @@
-#Stock Money
+#StockMoney
